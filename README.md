@@ -47,13 +47,6 @@ It provides decision-makers with a clear view of **patient volumes**, **medical 
 
 ---
 
-## 🚀 Future Enhancements
-- Incorporate **geospatial maps** to visualize patient distribution by region.
-- Add **trend forecasting** for patient volumes and medical conditions.
-- Integrate **patient satisfaction scores** for quality-of-care analysis.
-
----
-
 💡 **Author:** Adegbola Ayeni  
 📧 Contact: ayeniadegbolaelijah@gmail.com  
 🌐 Portfolio: https://github.com/adegbolaayeni
