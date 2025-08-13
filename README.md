@@ -54,6 +54,6 @@ It provides decision-makers with a clear view of **patient volumes**, **medical 
 
 ---
 
-💡 **Author:** Lekan  
-📧 Contact: your.email@example.com  
-🌐 Portfolio: [Your Website or LinkedIn](#)
+💡 **Author:** Adegbola Ayeni  
+📧 Contact: ayeniadegbolaelijah@gmail.com  
+🌐 Portfolio: https://github.com/adegbolaayeni
